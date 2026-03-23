@@ -1,0 +1,13 @@
+{
+  "name": "unit-testing-lab-js-master",
+  "version": "1.0.0",
+  "description": "Laboratório de Testes Unitários em JavaScript",
+  "scripts": {
+    "test:basic": "cd 01-unit-test-basic && npm test",
+    "test:tdd": "cd 02-tdd-project && npm test",
+    "test:all": "npm run test:tdd"
+  },
+  "keywords": ["testes", "jest", "javascript", "tdd"],
+  "author": "Estudante",
+  "license": "MIT"
+}
